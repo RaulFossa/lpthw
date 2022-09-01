@@ -1,0 +1,30 @@
+#ex15_sample.txt
+
+Why Python?
+
+Every year I consider whether to continue using Python
+or whether to move on to a different language—perhaps one
+that’s newer to the programming world. But I continue to focus
+on Python for many reasons. Python is an incredibly efficient
+language: your programs will do more in fewer lines of code than
+many other languages would require. Python’s syntax will also
+help you write “clean” code. Your code will be easy to read, easy
+to debug, and easy to extend and build upon compared to other languages.
+
+People use Python for many purposes: to make games, build web
+applications, solve business problems, and develop internal
+tools at all kinds of interesting companies. Python is also used
+heavily in scientific fields for academic research and applied work.
+
+One of the most important reasons I continue to use Python is because
+of the Python community, which includes an incredibly diverse and
+welcoming group of people. Community is essential to programmers because
+programming isn’t a solitary pursuit. Most of us, even the most
+experienced programmers, need to ask advice from others who have already
+solved similar problems. Having a well-connected and supportive community
+is critical in helping you solve problems, and the Python community is
+fully supportive of people like you who are learning Python as your
+first programming language.
+
+Python is a great language to learn,
+so let’s get started!
